@@ -80,12 +80,11 @@ function buy(id) {
             cartList.push(products[i])
         }
     }
-    console.log(cartList)
 }
 
 // Exercise 2
 function cleanCart() {
-
+    cartList = []
 }
 
 // Exercise 3
